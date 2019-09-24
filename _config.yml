@@ -5,6 +5,7 @@ author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://classicmate.github.io"
 suburl:             ""
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
