@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Welcome to Classic Mate"
 ---
 
 <div class="tiles">
